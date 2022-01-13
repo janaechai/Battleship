@@ -1,7 +1,7 @@
 I have shared my whole battleship game program here.
 Please take note that there are some suppressed errors, memory leak in the program but it can still be run.
 The game can be played with no error.
-
+It is written in c programming language and is run in unix.
 
 https://drive.google.com/file/d/1lmlgqez1zVzNOlhN_y3eo_w0HpGl2216/view?usp=sharing
 https://docs.google.com/spreadsheets/d/1JaW-16ZQUkJcyYksHo7-u3r4GKtDFtD3TAzBtcqia7o/edit?usp=sharing
